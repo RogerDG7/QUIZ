@@ -1,0 +1,12 @@
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/QUIZ.exe.config
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/QUIZ.exe
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/QUIZ.pdb
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/EntityFramework.dll
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/EntityFramework.SqlServer.dll
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/EntityFramework.xml
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/bin/Debug/EntityFramework.SqlServer.xml
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/obj/Debug/QUIZ.csprojAssemblyReference.cache
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/obj/Debug/QUIZ.csproj.CoreCompileInputs.cache
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/obj/Debug/QUIZ.csproj.CopyComplete
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/obj/Debug/QUIZ.exe
+/Users/roger/Projects/HSClases/QUIZ/QUIZ/obj/Debug/QUIZ.pdb

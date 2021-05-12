@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7BCAE511-B01E-496D-BA1E-CA2915592DD5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QUIZ/Program.cs">
+    <Files>
+      <File FileName="QUIZ/Program.cs" Line="106" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QUIZ" expanded="True">
+            <Node name="QUIZ" expanded="True">
+              <Node name="Modelado" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>reader</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.QUIZ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
